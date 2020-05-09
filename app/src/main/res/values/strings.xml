@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pomodoro Productivity</string>
+    <string name="CreateText">Start a new Pomodoro now!</string>
+    <string name="nextTask">What will you address after the session?</string>
+    <string name="stay_focused">Stay Focused!</string>
+    <string name="toast_empty">Enter a Goal</string>
+    <string name="current_project">Current Project</string>
+</resources>
